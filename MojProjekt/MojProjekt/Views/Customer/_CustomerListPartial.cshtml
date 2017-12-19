@@ -1,0 +1,15 @@
+﻿@model IEnumerable<MojProjekt.Domain.Entities.Customer>
+
+
+<lu>
+    @foreach (var item in Model)
+    {
+        <li>
+            <p>@item.Name</p>
+            <p>@item.Address, @item.City, @item.PostCode </p>
+            <p>@item.NIP</p>
+        </li>
+    }
+</lu>
+
+

@@ -1,0 +1,699 @@
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csproj.CoreCompileInputs.cache
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\ApplicationInsights.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\csc.exe
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\csc.exe.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\csc.rsp
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\csi.exe
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\csi.exe.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\csi.rsp
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.AppContext.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Collections.Immutable.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Console.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.Process.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.IO.Compression.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.IO.Pipes.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Security.AccessControl.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Security.Claims.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Threading.Thread.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.ValueTuple.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XPath.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\vbc.exe
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\vbc.exe.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\vbc.rsp
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\VBCSCompiler.exe
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\roslyn\VBCSCompiler.exe.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\MojProjekt.dll.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\MojProjekt.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\MojProjekt.pdb
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Antlr3.Runtime.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\EntityFramework.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\EntityFramework.SqlServer.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AI.DependencyCollector.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AI.Web.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AI.WindowsServer.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.ApplicationInsights.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Google.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Web.Infrastructure.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\MojProjekt.Domain.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Newtonsoft.Json.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Owin.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Net.Http.Formatting.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Helpers.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Http.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Http.WebHost.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Mvc.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Optimization.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Razor.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.WebPages.Deployment.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.WebPages.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.WebPages.Razor.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\WebGrease.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\MojProjekt.Domain.pdb
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Antlr3.Runtime.pdb
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\EntityFramework.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\EntityFramework.SqlServer.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Helpers.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Mvc.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Optimization.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Razor.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.WebPages.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.WebPages.Deployment.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.WebPages.Razor.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Newtonsoft.Json.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Net.Http.Formatting.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Http.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\System.Web.Http.WebHost.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Google.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.ApplicationInsights.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AI.DependencyCollector.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AI.WindowsServer.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Microsoft.AI.Web.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csprojResolveAssemblyReference.cache
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\obj\Debug\MojProjekt.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\obj\Debug\MojProjekt.pdb
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\obj\Debug\MojProjekt.Migrations.initial.resources
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csproj.GenerateResource.Cache
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Castle.Core.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Moq.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Castle.Core.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Moq.pdb
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\bin\Moq.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\ApplicationInsights.config
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\csc.exe
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\csc.exe.config
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\csc.rsp
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\csi.exe
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\csi.exe.config
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\csi.rsp
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.AppContext.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Console.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Security.Claims.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\vbc.exe
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\vbc.exe.config
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\vbc.rsp
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\MojProjekt.dll.config
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\MojProjekt.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\MojProjekt.pdb
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Antlr3.Runtime.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Castle.Core.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\EntityFramework.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AI.Web.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\MojProjekt.Domain.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Moq.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Newtonsoft.Json.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Owin.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Net.Http.Formatting.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Helpers.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Http.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Http.WebHost.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Mvc.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Optimization.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Razor.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.WebPages.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\WebGrease.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\MojProjekt.Domain.pdb
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Antlr3.Runtime.pdb
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Castle.Core.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\EntityFramework.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\EntityFramework.SqlServer.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Moq.pdb
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Moq.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Helpers.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Mvc.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Optimization.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Razor.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.WebPages.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Newtonsoft.Json.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Net.Http.Formatting.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Http.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\System.Web.Http.WebHost.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\Microsoft.AI.Web.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\obj\Debug\MojProjekt.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\obj\Debug\MojProjekt.pdb
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\MojProjekt.Domain.dll.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\ApplicationInsights.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\csc.exe
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\csc.exe.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\csc.rsp
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\csi.exe
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\csi.exe.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\csi.rsp
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.AppContext.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Collections.Immutable.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Console.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.Process.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.IO.Compression.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.IO.Pipes.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Security.AccessControl.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Security.Claims.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Threading.Thread.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.ValueTuple.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XPath.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\vbc.exe
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\vbc.exe.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\vbc.rsp
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\VBCSCompiler.exe
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\roslyn\VBCSCompiler.exe.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\MojProjekt.dll.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\MojProjekt.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\MojProjekt.pdb
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Antlr3.Runtime.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Castle.Core.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\EntityFramework.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\EntityFramework.SqlServer.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AI.DependencyCollector.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AI.Web.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AI.WindowsServer.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.ApplicationInsights.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Google.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Web.Infrastructure.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\MojProjekt.Domain.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Moq.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Newtonsoft.Json.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Owin.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Net.Http.Formatting.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Helpers.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Http.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Http.WebHost.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Mvc.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Optimization.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Razor.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.WebPages.Deployment.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.WebPages.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.WebPages.Razor.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\WebGrease.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\MojProjekt.Domain.pdb
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\MojProjekt.Domain.dll.config
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Antlr3.Runtime.pdb
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Castle.Core.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\EntityFramework.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\EntityFramework.SqlServer.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Moq.pdb
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Moq.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Helpers.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Mvc.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Optimization.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Razor.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.WebPages.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.WebPages.Deployment.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.WebPages.Razor.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Newtonsoft.Json.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Net.Http.Formatting.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Http.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\System.Web.Http.WebHost.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Google.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.ApplicationInsights.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AI.DependencyCollector.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AI.WindowsServer.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\Microsoft.AI.Web.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csprojResolveAssemblyReference.cache
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\obj\Debug\MojProjekt.Migrations.initial.resources
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csproj.GenerateResource.Cache
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csproj.CoreCompileInputs.cache
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\obj\Debug\MojProjekt.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\obj\Debug\MojProjekt.pdb
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\PagedList.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\PagedList.Mvc.dll
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\PagedList.xml
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\bin\PagedList.Mvc.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\PagedList.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\PagedList.Mvc.dll
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\PagedList.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\bin\PagedList.Mvc.xml
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\obj\Debug\MojProjekt.Migrations.initial.resources
+C:\Users\Krzysztof\Desktop\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csproj.GenerateResource.Cache
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\ApplicationInsights.config
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csc.exe
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csc.exe.config
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csc.rsp
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csi.exe
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csi.exe.config
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csi.rsp
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.AppContext.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Collections.Immutable.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Console.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.Process.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.IO.Compression.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.IO.Pipes.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.AccessControl.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Claims.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Threading.Thread.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.ValueTuple.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XPath.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\vbc.exe
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\vbc.exe.config
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\vbc.rsp
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\VBCSCompiler.exe
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\VBCSCompiler.exe.config
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.dll.config
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.pdb
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Antlr3.Runtime.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Castle.Core.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\EntityFramework.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\EntityFramework.SqlServer.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.DependencyCollector.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.Web.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.WindowsServer.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.ApplicationInsights.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Google.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Web.Infrastructure.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.Domain.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Moq.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Newtonsoft.Json.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Owin.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\PagedList.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\PagedList.Mvc.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Net.Http.Formatting.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Helpers.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Http.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Http.WebHost.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Mvc.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Optimization.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Razor.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.Deployment.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.Razor.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\WebGrease.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.Domain.pdb
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.Domain.dll.config
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Antlr3.Runtime.pdb
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Castle.Core.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\EntityFramework.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\EntityFramework.SqlServer.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Moq.pdb
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Moq.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\PagedList.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\PagedList.Mvc.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Helpers.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Mvc.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Optimization.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Razor.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.Deployment.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.Razor.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Newtonsoft.Json.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Net.Http.Formatting.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Http.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Http.WebHost.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Google.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.ApplicationInsights.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.DependencyCollector.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.WindowsServer.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.Web.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csprojResolveAssemblyReference.cache
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.Migrations.initial.resources
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csproj.GenerateResource.Cache
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csproj.CoreCompileInputs.cache
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.pdb
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Json.NET.Web.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\ApplicationInsights.config
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csc.exe
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csc.exe.config
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csc.rsp
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csi.exe
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csi.exe.config
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\csi.rsp
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.AppContext.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Console.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Claims.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\vbc.exe
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\vbc.exe.config
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\vbc.rsp
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.dll.config
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.pdb
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Antlr3.Runtime.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Castle.Core.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\EntityFramework.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Json.NET.Web.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.Web.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.Domain.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Moq.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Newtonsoft.Json.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Owin.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\PagedList.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\PagedList.Mvc.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Net.Http.Formatting.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Helpers.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Http.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Http.WebHost.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Mvc.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Optimization.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Razor.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\WebGrease.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.Domain.pdb
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\MojProjekt.Domain.dll.config
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Antlr3.Runtime.pdb
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Castle.Core.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\EntityFramework.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\EntityFramework.SqlServer.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Moq.pdb
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Moq.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Newtonsoft.Json.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\PagedList.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\PagedList.Mvc.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Helpers.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Mvc.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Optimization.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Razor.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Net.Http.Formatting.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Http.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\System.Web.Http.WebHost.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Microsoft.AI.Web.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.Migrations.initial.resources
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.pdb
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Select.Pdf.dll
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Select.Pdf.xml
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Select.Html.dep
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\bin\Select.Tools.dep
+C:\Users\Krzysztof\Desktop\MojProjekt (1)\MojProjekt\MojProjekt\obj\Debug\MojProjekt.WebUI.csproj.CoreCompileInputs.cache
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Select.Pdf.dll
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Select.Pdf.xml
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Select.Html.dep
+D:\Download\MojProjekt (1)\MojProjekt\MojProjekt\bin\Select.Tools.dep

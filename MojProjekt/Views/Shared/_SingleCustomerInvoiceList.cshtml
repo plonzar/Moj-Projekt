@@ -1,0 +1,22 @@
+﻿@model IEnumerable<MojProjekt.Domain.Entities.Invoice>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>Data wystawienia</td>
+            <td>Numer faktury</td>
+            <td>Kwota brutto</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Day/@item.Month/@item.Year</td>
+                <td>@item.InvoiceNumber</td>
+                <td>@item.PriceWithTax</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

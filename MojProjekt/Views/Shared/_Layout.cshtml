@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rachunkowosc</title>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="~/Scripts/InvoiceAutoFill.js"></script>
+    <style>
+        .ui-helper-hidden-accessible {
+            display: none !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="nav navbar-nav">
+                @Html.ActionLink("Lista klientów", "Index", "Customer", null, new { @class = "navbar-brand" })
+                @Html.ActionLink("Lista faktur", "Index", "Invoice", null, new { @class = "navbar-brand" })
+                @Html.ActionLink("Dane firmy", "Edit", "Company", null, new { @class = "navbar-brand" })
+            </div>
+            @Html.Partial("_LoginPartial")
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Krzysztof Płonka</p>
+        </footer>
+    </div>
+</body>
+</html>

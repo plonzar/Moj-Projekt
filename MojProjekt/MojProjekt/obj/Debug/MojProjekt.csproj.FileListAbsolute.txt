@@ -1,0 +1,2 @@
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\obj\Debug\MojProjekt.csprojResolveAssemblyReference.cache
+D:\Testowy\MSV2017_Projects\Projects\MojProjekt\MojProjekt\MojProjekt\obj\Debug\MojProjekt.csproj.CoreCompileInputs.cache

@@ -1,0 +1,28 @@
+﻿@model MojProjekt.Domain.Entities.Customer
+
+@{
+    ViewBag.Title = "Szczegóły";
+}
+
+<h2>@Model.Name</h2>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        @Html.HiddenFor(model => Model.ID)
+        <p>Nazwa firmy: @Model.Name</p>
+        <p>Ulica: @Model.Address</p>
+        <p>Miasto: @Model.City     @Model.PostCode</p>
+        <p>NIP: @Model.NIP</p>
+    </div>
+    <div class="panel-body">
+        <h2>Faktury klienta @Model.Name</h2>
+        <hr />
+        @{ 
+            Html.RenderAction("SingleCustomerInvoiceIist", "Invoice", new { customer = Model });
+        }
+    </div>
+    <div class="panel-footer">
+        @Html.ActionLink("Wróć do listy","Index",null, new { @class = "btn btn-default" })
+    </div>
+
+</div>

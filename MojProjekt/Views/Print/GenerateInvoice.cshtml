@@ -1,0 +1,76 @@
+﻿@model MojProjekt.Models.InvoicePrintViewModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="~/Scripts/jquery-3.2.1.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+     <style>
+
+         .my-info {
+             border: 2px solid black;
+             border-radius: 5px;
+         }
+
+         .my-info ul {
+            list-style-type: none;
+         }
+     </style>
+</head>
+<body>
+    <div class="container" style="margin-top: 20px;"> 
+        <div class="row" style="margin-bottom: 50px;">
+            <div class=" pull-left col-lg-3 my-info">
+                <h4>Sprzedawca:</h4>
+                <ul>
+                    <li>@Model.Company.Name</li>
+                    <li>@Model.Company.City  @Model.Company.PostCode</li>
+                    <li>@Model.Company.Address</li>
+                    <li>NIP: @Model.Company.NIP</li>
+                </ul>
+            </div>
+            <div class="pull-right col-lg-3 my-info">
+                <h4>Nabywca:</h4>
+                <ul>
+                    <li>@Model.Invoice.Name</li>
+                    <li>@Model.Invoice.City  @Model.Invoice.PostCode</li>
+                    <li>@Model.Invoice.Address</li>
+                    <li>NIP: @Model.Invoice.NIP</li>
+                </ul>
+            </div>
+        </div>
+        <div class="text-center" style="margin-bottom: 40px;">
+            <h2>Faktura nr @Model.Invoice.InvoiceNumber/@Model.Invoice.Month/@Model.Invoice.Year</h2>
+        </div>
+        <div style="margin-bottom: 50px;">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <td>Usługa/Towar</td>
+                        <td>Cena netto</td>
+                        <td>Podatek</td>
+                        <td>Cena brutto</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@Model.Invoice.ItemName</td>
+                        <td>@Model.Invoice.PriceWithoutTax</td>
+                        <td>@Model.Invoice.Tax</td>
+                        <td>@Model.Invoice.PriceWithTax</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-md-3 pull-left my-info" style="text-align: center">
+            <h5>Sprzedawca</h5>
+            <br />
+            <br />
+            <h6>Data wystawienia: @Model.Invoice.Day@Model.Invoice.Month/@Model.Invoice.Year</h6>
+        </div>
+    </div>
+</body>
+</html>

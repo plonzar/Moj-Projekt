@@ -1,0 +1,48 @@
+﻿@model IEnumerable<MojProjekt.Domain.Entities.Invoice>
+@using PagedList.Mvc;
+    @{
+        ViewBag.Title = "Lisat Faktur";
+    }
+
+    <h2>Lista Faktur</h2>
+
+    <div>
+        @Html.ActionLink("Dodaj fakturę", "Add", "Invoice", new { @class = "btn btn-default" })
+    </div>
+
+
+    <div class="container">
+        <div class="panel">
+            <div class="panel-heading">
+            </div>
+            <div class="panel-body">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <td>Nazwa klienta</td>
+                            <td>Numer faktury</td>
+                            <td>Data wystawienia</td>
+                            <td>Kwota</td>
+                            <td>Akcja</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@Html.ActionLink(@item.Name, "Edit", new { id = item.Id } )</td>
+                                <td>@item.InvoiceNumber</td>
+                                <td>@item.Day/@item.Month/@item.Year</td>
+                                <td>@item.PriceWithTax</td>
+                                <td>@Html.ActionLink("Drukuj", "GenerateInvoice", "Print", new { invoiceID = item.Id }, null)</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+               
+
+
+            </div>
+        </div>
+    </div>
+

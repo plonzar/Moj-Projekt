@@ -1,0 +1,86 @@
+﻿@model MojProjekt.Domain.Entities.Invoice
+
+@{
+    ViewBag.Title = "Edytuj fakturę";
+}
+<div class="container">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary()
+        @Html.HiddenFor(m => m.Id)
+        @Html.HiddenFor(m => m.InvoiceNumber)
+        @Html.HiddenFor(model => model.UserId)
+        <h3>Dane klienta:</h3>
+        <div class="form form-horizontal">
+            <div class="form-group">
+                @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div>
+                    @Html.TextAreaFor(m => m.Name, new { @class = "form-control col-md-4" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.City, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div>
+                    @Html.EditorFor(m => m.City, new { htmlAttributes = new { @class = "form-control col-md-4" } })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.PostCode, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div>
+                    @Html.EditorFor(m => m.PostCode, new { htmlAttributes = new { @class = "form-control col-md-4" } })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div>
+                    @Html.EditorFor(m => m.Address, new { htmlAttributes = new { @class = "form-control col-md-4" } })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.NIP, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div>
+                    @Html.EditorFor(m => m.NIP, new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+            </div>
+        </div>
+        <hr />
+
+        <h3>Dane faktury:</h3>
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <td>@Html.DisplayNameFor(m => m.ItemName)</td>
+                    <td>@Html.DisplayNameFor(m => m.PriceWithoutTax)</td>
+                    <td>@Html.DisplayNameFor(m => m.Tax)</td>
+                    <td>@Html.DisplayNameFor(m => m.PriceWithTax)</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Html.EditorFor(m => m.ItemName, new { htmlAttributes = new { @class = "form-control" } })</td>
+                    <td>@Html.EditorFor(m => m.PriceWithoutTax, new { htmlAttributes = new { @class = "form-control", min = 0, onblur = "calculatePriceWithTax()" } })</td>
+                    <td>
+                        @Html.DropDownListFor(m => m.Tax, new SelectList(new List<int> { 23, 0, 5, 8 }), new { @class = "form-control", onchange = "calculatePriceWithTax()" })
+                    </td>
+                    <td>@Html.EditorFor(m => m.PriceWithTax, new { htmlAttributes = new { @class = "form-control", min = 0, onblur = "calculatePriceWithoutTax()" } })</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div>
+            <div class="col-md-12">
+                <input type="submit" value="Zapisz" class="btn btn-primary" />
+                @Html.ActionLink("Usuń", "Remove", new { id = Model.Id }, new { @class = "btn btn-default" })
+            </div>
+        </div>
+    }
+    <div class="col-md-12" style="margin-top: 15px;">
+        @Html.ActionLink("Wróc do listy", "index")
+    </div>
+</div>
+<br />
+
+
+
